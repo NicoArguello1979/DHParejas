@@ -1,0 +1,1 @@
+const tercerArchivo = "Me quedé sin ideas"
