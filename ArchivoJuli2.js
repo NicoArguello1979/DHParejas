@@ -1,0 +1,1 @@
+var segundoArchivo = "Este es el segundo archivo"
